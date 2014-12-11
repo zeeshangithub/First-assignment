@@ -1,0 +1,139 @@
+﻿ #banner
+        {
+            background-image: url(     "images/header.png" );
+            height: 511px;
+            left: 0;
+            margin: 0 auto;
+            width: 1077px;
+        }
+        h1
+        {
+            width: 110px;
+            display: inline-block;
+            padding-left: 95px;
+            color: White;
+            font-family: Cursive;
+        }
+        .main li
+        {
+            float: left;
+            display: block;
+            padding-right: 75px;
+            height: 50px;
+            color: White;
+        }
+        .main li a
+        {
+            text-decoration: none;
+            color: White;
+        }
+        #banardiv
+        {
+            background-color: white;
+            height: 136px;
+            margin: 133px auto 0;
+            opacity: 0.3;
+            text-align: center;
+            width: 419px;
+        }
+        #OURservices
+        {
+            background-image: url(     "images/header.png" );
+            height: 640px;
+            margin: 0 auto;
+            width: 1077px;
+            opacity: 0.9;
+        }
+        #about
+        {
+            background-image: url(     "images/header.png" );
+            height: 650px;
+            margin: 0 auto;
+            width: 1077px;
+        }
+        #ourwork
+        {
+            background-image: url(     "images/header.png" );
+            height: 830px;
+            margin: 0 auto;
+            width: 1077px;
+        }
+        #contactus
+        {
+            background-image: url(     "images/header.png" );
+            height: 511px;
+            margin: 0 auto;
+            width: 1077px;
+        }
+        .div-heading
+        {
+            height: 130px;
+            margin: 0 auto;
+            text-align: center;
+            width: 850px;
+        }
+        #servic-img
+        {
+            margin: 32px 76px 0 auto;
+            height: 221px;
+            text-align: center;
+            width: 850px;
+            font-size: 15px;
+        }
+        #people
+        {
+            margin: 30px 82px 0 auto;
+            height: 221px;
+            text-align: center;
+            line-height: 0;
+            width: 850px;
+            font-size: 15px;
+        }
+        .servic-img-div
+        {
+            background-color: #c45158;
+            float: left;
+            margin-right: 12px;
+            width: 188px;
+            opacity: 0.6;
+            overflow:none;
+        }
+        .ppl-img-div
+        {
+            background-color: #524350;
+            float: left;
+            margin-right: 12px;
+            width: 188px;
+            opacity: 0.6;
+            height:265px;
+            overflow:none;
+        }
+        	
+        .abt-social li
+        {
+            float: left;
+            display: block;
+            padding-left: 5px;
+        }
+         #nevigation li
+        {
+            float: left;
+            font-faimly: helvatica;
+            display: block;
+            font-family: "Helvetica Neue" ,Helvetica,Arial,sans-serif;
+            line-height: 50px;
+            min-width: 100px;
+            text-align: center;
+            padding-right: 12px;
+            margin-right: 12px;
+        }
+        li a
+        {
+        	text-decoration:none;
+        	}
+        .style1
+        {
+            width: 800px;
+        }
+        .main{overflow: auto; width: 671px; height: 50px; float: right; line-height: 50px;
+            color: white; margin-right: 22px;}
